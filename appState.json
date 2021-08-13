@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "Test965a.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 48
         },
         "config": {
           "runtime": "nodejs14.x",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1628830182918
+    "lastSave": 1628830228886
   },
   "VCS_STATE": {
     "provider": "GitHub",
